@@ -6,5 +6,4 @@ Low sales = 0
 The network uses Backpropagation to predict the outcome of the sales.
 
 # Needed Software
-===============
 Jupyter Notebook OR it can be run using Google Colab or any cloud based platform.
