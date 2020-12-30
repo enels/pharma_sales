@@ -10,3 +10,5 @@ The network uses Backpropagation to predict the outcome of the sales.
 
 # Needed Software
 Jupyter Notebook OR it can be run using Google Colab or any cloud based platform.
+
+Read the code very well to uncomment/comment lines necessary to run it based on the environment you're using.
