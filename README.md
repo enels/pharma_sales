@@ -5,6 +5,7 @@ For the target:
 
 High sales = 1
 Low sales = 0
+
 The network uses Backpropagation to predict the outcome of the sales.
 
 # Needed Software
