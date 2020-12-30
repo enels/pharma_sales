@@ -3,8 +3,8 @@ Predicts the rate of sales of drugs of a pharmacy store. It predicts when the sa
 For the target:
 High sales = 1
 Low sales = 0
-
 The network uses Backpropagation to predict the outcome of the sales.
-Needed Software
+
+# Needed Software
 ===============
 Jupyter Notebook OR it can be run using Google Colab or any cloud based platform.
